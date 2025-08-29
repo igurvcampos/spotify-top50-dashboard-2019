@@ -2,7 +2,8 @@
 
 # 🎵 Dashboard Spotify Top 50 em 2019
 
-<img width="995" height="787" alt="Captura de Tela 2025-08-29 às 10 26 24" src="https://github.com/user-attachments/assets/360029f4-7971-4ebf-804c-4c5521be50ff" />
+<img width="751" height="485" alt="Captura de Tela 2025-08-29 às 12 02 46" src="https://github.com/user-attachments/assets/2c38f2ce-b796-464a-89d6-eddf7f50a2c1" />
+
 
 <img width="768" height="419" alt="Captura de Tela 2025-08-29 às 12 02 17" src="https://github.com/user-attachments/assets/f64c962e-34f7-444f-83ac-dce8fd42a87e" />
 
